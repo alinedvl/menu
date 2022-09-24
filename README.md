@@ -1,6 +1,6 @@
 # Menu 
 
-Simulação de um menu responsivo, para uma página de banco.
+Simulação de um menu responsivo, para uma página de banco, utilizando o display flex. 
 
 [<img src="src/images/menu-thebank.png" alt="imagem do menu">]
 
